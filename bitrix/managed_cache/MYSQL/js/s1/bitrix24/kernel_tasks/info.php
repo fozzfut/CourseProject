@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/tasks/cjstask.js" => "144742764517750","/bitrix/js/tasks/task-quick-popups.js" => "144742764518988","/bitrix/js/tasks/task-iframe-popup.js" => "144742764528206","/bitrix/js/tasks/core_planner_handler.js" => "144742764512430",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>

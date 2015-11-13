@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/intranet/intranet-common.css" => "144742764535321","/bitrix/js/intranet/core_planner.css" => "1447427645886",), 'CUR_SEL_CNT' => '403', 'CUR_IE_CNT' => '0'); ?>
