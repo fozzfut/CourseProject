@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001447427781';
-$dateexpire = '001447431381';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";N;}';
+$datecreate = '001448396531';
+$dateexpire = '001448400131';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:11:"last_pathes";s:48:"a:2:{i:0;s:12:"/crm/company";i:1;s:7:"/bitrix";}";s:11:"code_editor";a:1:{s:5:"theme";s:5:"light";}}}';
 return true;
 ?>

@@ -1,8 +1,8 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001447427779';
-$dateexpire = '001450019779';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:18:{s:2:"ID";s:1:"1";s:7:"BLOG_ID";s:1:"1";s:14:"PUBLISH_STATUS";s:1:"P";s:5:"TITLE";s:101:"Официально открыт корпоративный портал нашей компании";s:9:"AUTHOR_ID";s:1:"1";s:15:"ENABLE_COMMENTS";s:1:"Y";s:12:"NUM_COMMENTS";s:1:"1";s:5:"VIEWS";N;s:4:"CODE";N;s:5:"MICRO";s:1:"N";s:11:"DETAIL_TEXT";s:2295:"Сегодня официально заработал корпоративный портал нашей компании.
+$datecreate = '001447955977';
+$dateexpire = '001450547977';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:18:{s:2:"ID";s:1:"1";s:7:"BLOG_ID";s:1:"1";s:14:"PUBLISH_STATUS";s:1:"P";s:5:"TITLE";s:101:"Официально открыт корпоративный портал нашей компании";s:9:"AUTHOR_ID";s:1:"1";s:15:"ENABLE_COMMENTS";s:1:"Y";s:12:"NUM_COMMENTS";s:1:"1";s:5:"VIEWS";s:1:"1";s:4:"CODE";N;s:5:"MICRO";s:1:"N";s:11:"DETAIL_TEXT";s:2295:"Сегодня официально заработал корпоративный портал нашей компании.
 
 Каждый сотрудник получил право на пользование общей информацией и индивидуальный пароль для управления своим персональным разделом.
 
