@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/main/css/reset.css" => "1448466451879","/local/templates/main/css/style.css" => "14484664519868","/local/templates/main/css/grid.css" => "14484664514879","/local/templates/main/css/ie.css" => "1448466451114",), 'CUR_SEL_CNT' => '322', 'CUR_IE_CNT' => '0'); ?>

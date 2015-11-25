@@ -11,7 +11,11 @@ bitrix/images/
 bitrix/js/
 bitrix/managed_cache/ 
 #bitrix/modules/
-bitrix/otp/ bitrix/php_interface/dbconn.php bitrix/sounds/ bitrix/stack_cache/ bitrix/template/
+bitrix/otp/
+bitrix/php_interface/dbconn.php
+bitrix/sounds/
+bitrix/stack_cache/
+bitrix/template/
 bitrix/themes/
 bitrix/tmp/
 bitrix/tools/
