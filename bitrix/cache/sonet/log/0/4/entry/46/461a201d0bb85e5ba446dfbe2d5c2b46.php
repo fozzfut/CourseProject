@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001448478757';
-$dateexpire = '001480014757';
+$datecreate = '001448479196';
+$dateexpire = '001480015196';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:16:"FIELDS_FORMATTED";a:13:{s:5:"EVENT";a:13:{s:2:"ID";s:1:"4";s:11:"ENTITY_TYPE";s:1:"P";s:9:"ENTITY_ID";s:1:"1";s:7:"USER_ID";N;s:8:"EVENT_ID";s:4:"data";s:5:"TITLE";s:29:"Элемент RSS-ленты";s:7:"MESSAGE";s:1049:"Эта запись Живой ленты получена из внешнего источника данных. Чтобы настроить схемы импорта внешних данных, в Панели управления перейдите на страницу &laquo;Сервисы -&gt; Внешние источники данных -&gt; Публикация в Живую ленту&raquo;.&lt;br /&gt;
 	Возможен импорт тремя способами:&lt;br /&gt;
 	&lt;ul&gt;

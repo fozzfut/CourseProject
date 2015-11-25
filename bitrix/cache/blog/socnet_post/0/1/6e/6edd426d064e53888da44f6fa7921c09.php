@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001448478757';
-$dateexpire = '001480014757';
+$datecreate = '001448479196';
+$dateexpire = '001480015196';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:7:{s:18:"templateCachedData";N;s:4:"Post";a:44:{s:2:"ID";s:1:"1";s:3:"~ID";s:1:"1";s:7:"BLOG_ID";s:1:"1";s:8:"~BLOG_ID";s:1:"1";s:14:"PUBLISH_STATUS";s:1:"P";s:15:"~PUBLISH_STATUS";s:1:"P";s:5:"TITLE";s:101:"Официально открыт корпоративный портал нашей компании";s:6:"~TITLE";s:101:"Официально открыт корпоративный портал нашей компании";s:9:"AUTHOR_ID";s:1:"1";s:10:"~AUTHOR_ID";s:1:"1";s:15:"ENABLE_COMMENTS";s:1:"Y";s:16:"~ENABLE_COMMENTS";s:1:"Y";s:12:"NUM_COMMENTS";s:1:"1";s:13:"~NUM_COMMENTS";s:1:"1";s:5:"VIEWS";s:1:"1";s:6:"~VIEWS";s:1:"1";s:4:"CODE";N;s:5:"~CODE";N;s:5:"MICRO";s:1:"N";s:6:"~MICRO";s:1:"N";s:11:"DETAIL_TEXT";s:2295:"Сегодня официально заработал корпоративный портал нашей компании.
 
 Каждый сотрудник получил право на пользование общей информацией и индивидуальный пароль для управления своим персональным разделом.
