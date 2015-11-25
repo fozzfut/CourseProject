@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/socialnetwork/log-destination.js" => "144742764449750","/bitrix/js/socialnetwork/sonet-iframe-popup.js" => "14474276443972",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
