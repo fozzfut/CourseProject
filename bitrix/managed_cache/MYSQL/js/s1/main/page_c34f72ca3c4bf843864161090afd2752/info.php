@@ -1,1 +1,0 @@
-<? $arFilesInfo = array( 'FILES' => array("/bitrix/components/bitrix/intranet.reserve_meeting.list/templates/.default/script.js" => "14474275921833","/bitrix/components/bitrix/intranet.reserve_meeting.list/js/dialogs.js" => "14474275925889",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>

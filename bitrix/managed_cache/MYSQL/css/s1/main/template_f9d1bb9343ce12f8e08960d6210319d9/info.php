@@ -1,1 +1,0 @@
-<? $arFilesInfo = array( 'FILES' => array("/local/templates/main/css/ie.css" => "1327920250114",), 'CUR_SEL_CNT' => '3', 'CUR_IE_CNT' => '0'); ?>

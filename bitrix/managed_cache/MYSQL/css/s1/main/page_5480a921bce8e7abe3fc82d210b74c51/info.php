@@ -1,1 +1,0 @@
-<? $arFilesInfo = array( 'FILES' => array("/bitrix/components/bitrix/socialnetwork_group/templates/.default/style.css" => "144742759616111","/bitrix/components/bitrix/socialnetwork.user_groups/templates/.default/style.css" => "14474275943889",), 'CUR_SEL_CNT' => '231', 'CUR_IE_CNT' => '0'); ?>

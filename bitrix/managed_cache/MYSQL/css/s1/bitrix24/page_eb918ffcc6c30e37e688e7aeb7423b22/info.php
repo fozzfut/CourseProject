@@ -1,1 +1,0 @@
-<? $arFilesInfo = array( 'FILES' => array("/bitrix/components/bitrix/socialnetwork_user/templates/.default/style.css" => "144742759016747","/bitrix/components/bitrix/intranet.mail.setup/templates/.default/style.css" => "144742758833908",), 'CUR_SEL_CNT' => '466', 'CUR_IE_CNT' => '0'); ?>

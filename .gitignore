@@ -2,7 +2,8 @@
 bitrix/[^/]*\.php$
 bitrix/activities/bitrix/ 
 #bitrix/admin 
-bitrix/backup/ bitrix/cache/ 
+bitrix/backup/
+bitrix/cache/ 
 #bitrix/components/bitrix/ 
 bitrix/controller_log/ 
 bitrix/gadgets/bitrix/ 

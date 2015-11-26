@@ -1,1 +1,0 @@
-<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/disk/css/disk.css" => "144742764458584","/bitrix/js/disk/css/file_dialog.css" => "14474276447632",), 'CUR_SEL_CNT' => '407', 'CUR_IE_CNT' => '0'); ?>

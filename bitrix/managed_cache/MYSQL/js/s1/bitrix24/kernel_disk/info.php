@@ -1,1 +1,0 @@
-<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/disk/c_disk.js" => "144742764419672","/bitrix/js/disk/file_dialog.js" => "144742764420362","/bitrix/js/disk/external_loader.js" => "14474276444142",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
