@@ -1,8 +1,8 @@
-#core bitrix
-bitrix/[^/]*\.php$ 
+#core bitrix 
+bitrix/[^/]*\.php$
 bitrix/activities/bitrix/ 
 #bitrix/admin 
-bitrix/backup/ 
+bitrix/backup/
 bitrix/cache/ 
 #bitrix/components/bitrix/ 
 bitrix/controller_log/ 
@@ -16,11 +16,13 @@ bitrix/otp/
 bitrix/php_interface/dbconn.php
 bitrix/sounds/ 
 bitrix/stack_cache/ 
+bitrix/sounds/
 bitrix/template/
 bitrix/themes/
 bitrix/tmp/
 bitrix/tools/ 
-bitrix/wizards/ bitrix/wizards/bitrix/
+bitrix/wizards/ 
+bitrix/wizards/bitrix/
 upload/
 # files 
 .DS_Store 

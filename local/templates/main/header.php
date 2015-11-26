@@ -54,7 +54,10 @@
                     )
                     ;?>
                     <div class="fright">
+<<<<<<< HEAD
 
+=======
+>>>>>>> task_1_create_site_template
                         <div class="indent">
                             <span class="address">Венеция</span>
                             <span class="phone">Tel: 666666666</span>
