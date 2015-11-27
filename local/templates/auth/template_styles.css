@@ -2,11 +2,9 @@ html {height: 100%;}
 
 body {
 	background: #151515;
-	background-size: auto;
-	background: url("images/fire-bg-1.jpeg")repeat center 69px;
-	-webkit-box-sizing: content-box;
-	-moz-box-sizing: content-box;
-	box-sizing: content-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 	height: 100%;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	min-height: 650px;
@@ -48,9 +46,9 @@ body {
 
 .main-logo {
 	display: inline-block;
-	height: 400px;
-	text-decoration: none;
-	width: 400px;
+	height: 725px;
+	text-decoration: #1ab8eb;
+	width: 530px;
 }
 
 .main-logo-ru {background: url("images/logo-1.png") no-repeat 0 0;}
@@ -64,8 +62,7 @@ body {
 	height: 100%;
 	overflow: hidden;
 	width: 100%;
-	background: url(images/fire-bg-1.jpeg) no-repeat center 69px;
-	background-size: auto;
+	background: #b22300 ;
 }
 
 .log-bottom-cell,
@@ -94,11 +91,11 @@ body {
 }
 
 .log-popup {
-	background-color: #fff;
+	background-color: #055070;
 	border-radius: 4px;
 	display: block;
-	text-align: left;
-	width: 650px;
+	text-align: center;
+	width: 300px;
 	position: relative;
 	padding: 30px 35px;
 }
@@ -114,7 +111,7 @@ body {
 
 .log-popup a {
 	font-size: 14px;
-	color: #2fc6f7;
+	color: #bb404c;
 	-webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
 	-ms-transition: all 500ms ease;
@@ -123,7 +120,7 @@ body {
 }
 
 .log-popup a:hover {
-	color:#1ab8eb;
+	color: #59a200;
 	border-color:#1ab8eb;
 }
 
@@ -345,7 +342,7 @@ body {
 a.login-item-link {
 	display: inline-block;
 	border-bottom: 2px solid #cdf0ff;
-	color: #2fc6f7;
+	color: #59a200;
 	vertical-align: bottom;
 	text-decoration: none;
 	font-family: 'geometriamedium';
@@ -358,7 +355,7 @@ a.login-item-link {
 }
 
 a.login-item-link:hover {
-	border-bottom: 2px solid #2fc6f7;
+	border-bottom: 2px solid #592;
 }
 
 .login-item-description .login-item-link {
@@ -569,7 +566,7 @@ a.login-item-link:hover {
 .login-link-forgot-pass {
 	display: inline-block;
 	border-bottom: 2px solid #cdf0ff;
-	color: #2fc6f7;
+	color: #517a1e;
 	text-decoration: none;
 	font-family: 'geometriamedium';
 	line-height: 20px;
@@ -852,7 +849,7 @@ a.login-create-promo-cod-link {
 }
 
 .login-btn {
-	background: #2fc6f7;color: #fff;
+	background: #517a1e;color: #fff;
 	display: inline-block;
 	outline: none !important;
 	border: none;
@@ -1158,7 +1155,7 @@ a.login-btn {
 }
 
 .login-tr-btn {
-	color:#2fc6f7;
+	color:#59a200;
 	border: 2px solid #2fc6f7;
 	display: inline-block;
 	outline: none !important;
@@ -1175,5 +1172,5 @@ a.login-btn {
 	font-size: 21px!important;
 }
 
-.login-tr-btn:hover  {color: #1ab8eb !important; border: 2px solid #1ab8eb;}
+.login-tr-btn:hover  {color: #59a200!important; border: 2px solid #1ab8eb;}
 .login-tr-btn.login-btn:active {color: #1ab8eb !important;border: 2px solid #1ab8eb;}

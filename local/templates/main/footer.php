@@ -7,6 +7,31 @@
  */?>
 <?if(!defined("B_PROLOG_INCLUDED")||B_PROLOG_INCLUDED!==true)die(); ?>
 <footer>
+    <?$APPLICATION->IncludeComponent(
+	"bitrix:map.yandex.system", 
+	".default", 
+	array(
+		"KEY" => "",
+		"INIT_MAP_TYPE" => "SATELLITE",
+		"MAP_WIDTH" => "300",
+		"MAP_HEIGHT" => "300",
+		"CONTROLS" => array(
+			0 => "ZOOM",
+			1 => "MINIMAP",
+			2 => "TYPECONTROL",
+			3 => "SCALELINE",
+		),
+		"OPTIONS" => array(
+			0 => "ENABLE_SCROLL_ZOOM",
+			1 => "ENABLE_DBLCLICK_ZOOM",
+			2 => "ENABLE_DRAGGING",
+		),
+		"MAP_ID" => "testmap",
+		"COMPONENT_TEMPLATE" => ".default"
+	),
+	false
+);
+    ?>
     <div class="main"> <span>Copyright <? echo date("Y")?>
             All Rights Reserved</span>
         Design by

@@ -8,6 +8,6 @@ $MESS["BITRIX24_LANG_EN"] = "Английский";
 $MESS["BITRIX24_LANG_DE"] = "Немецкий";
 $MESS["BITRIX24_LANG_UA"] = "Украинский";
 $MESS["BITRIX24_LANG_LA"] = "Испанский";
-$MESS["BITRIX24_COPYRIGHT"] = "&copy; 2001-#CURRENT_YEAR# &laquo;Битрикс&raquo;, &laquo;1С-Битрикс&raquo;. Работает на 1С-Битрикс: Корпоративный портал.";
-$MESS["BITRIX24_COPYRIGHT_B24"] = "&copy; 2001-#CURRENT_YEAR# &laquo;Битрикс&raquo;, &laquo;1С-Битрикс&raquo;. Объединяем компанию с <a href=\"http://www.bitrix24.ru/\" target=\"_blank\">&laquo;1С-Битрикс24&raquo;</a>";
+$MESS["BITRIX24_COPYRIGHT"] = "&copy; #CURRENT_YEAR# &laquo;Doctors 1400+&raquo;, &laquo;&raquo;. Работает на 1С-Битрикс: Корпоративный портал.";
+$MESS["BITRIX24_COPYRIGHT_B24"] = "&copy; #CURRENT_YEAR# &laquo; &laquo;Doctors 1400+&raquo;. Объединяем компанию с <a href=\"http://www.bitrix24.ru/\" target=\"_blank\">&laquo;1С-Битрикс24&raquo;</a>";
 ?>

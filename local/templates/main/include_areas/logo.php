@@ -1,2 +1,1 @@
-<?php?>
-<img src="<?=SITE_TEMPLATE_PATH;?>/images/images/logo_doc_2.png">
+<?php?> <img width="192" src="/local/templates/main/images/images/logo_doc_2.png" height="343">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img width="177" src="/local/templates/main/images/images/logo-2.png" height="338">

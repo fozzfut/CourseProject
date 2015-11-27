@@ -1,5 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("");
 global $APPLICATION;
 IncludeModuleLangFile($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/intranet/public/crm/stream/index.php");
 $APPLICATION->SetTitle(GetMessage("CRM_TITLE"));
@@ -62,4 +63,4 @@ if(CModule::IncludeModule("crm") && CCrmPerms::IsAccessEnabled()):
 	);
 endif;
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");
-?>
+?><span style="color: #fff799;"></span>false
